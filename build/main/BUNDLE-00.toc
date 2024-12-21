@@ -1,0 +1,3 @@
+([('main',
+   '/Users/huangbo/Documents/CodeAlways/code_summary/dist/main',
+   'EXECUTABLE')],)
